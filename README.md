@@ -13,4 +13,4 @@ The folder contains IPython notebooks with raw data preparation, model training 
 
 
 
-Full datasets are not present here due too size limitation of Github repository. If you need full data please request them by sending us an email.
+Full datasets are not present here due too size limitation of Github repository. If you need full data please request them by sending me an email.
