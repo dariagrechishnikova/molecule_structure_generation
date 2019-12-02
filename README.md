@@ -1,5 +1,5 @@
 # molecule_structure_generation
-Target specific de novo drug design using Transformer neural network.55
+Target specific de novo drug design using Transformer neural network.
 
 
 Folders:
