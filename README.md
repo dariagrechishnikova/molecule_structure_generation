@@ -13,7 +13,3 @@ The folder contains extended datasets with proteins from human, bovine, rat and 
 
 /scripts
 The folder contains IPython notebooks with raw data preparation, model training and decoding from it, model evaluation and results visualization.
-
-
-
-Full datasets are not present here due too size limitation of Github repository. If you need full data please request them by sending me an email.
